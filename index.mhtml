@@ -1,182 +1,79 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: http://uploads.ungrounded.net/tmp/1911000/1911716/file/alternate/alternate_2_r7.zip/
-Subject: 
-Date: Sat, 14 Jan 2023 18:44:33 -0000
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--aEInavvhIfvoFUO7sFDF795pfVHDf1xJEHmFc1U2V7----"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>Friday Night Funkin'</title>
+	
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	
+	
+	<link rel="shortcut icon" type="image/png" href="./favicon.png">
+	
+	
+	<script type="text/javascript" src="./Funkin.js"></script>
+	
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
+	
+	<style>
+		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background: #000000; width: 100%; height: 100%; }
+		@font-face {
+			font-family: 'Pixel Arial 11 Bold';
+			src: url('assets/fonts/pixel.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/pixel.woff') format('woff'),
+			url('assets/fonts/pixel.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'VCR OSD Mono';
+			src: url('assets/fonts/vcr.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/vcr.woff') format('woff'),
+			url('assets/fonts/vcr.ttf') format('truetype'),
+			url('assets/fonts/vcr.svg#VCR%20OSD%20Mono') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Nokia Cellphone FC Small';
+			src: url('flixel/fonts/nokiafc22.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/nokiafc22.woff') format('woff'),
+			url('flixel/fonts/nokiafc22.ttf') format('truetype'),
+			url('flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Monsterrat';
+			src: url('flixel/fonts/monsterrat.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/monsterrat.woff') format('woff'),
+			url('flixel/fonts/monsterrat.ttf') format('truetype'),
+			url('flixel/fonts/monsterrat.svg#Monsterrat') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
 
-
-------MultipartBoundary--aEInavvhIfvoFUO7sFDF795pfVHDf1xJEHmFc1U2V7----
-Content-Type: text/html
-Content-ID: <frame-9E2B13DB15B1A05D540C0E0A0F71A343@mhtml.blink>
-Content-Transfer-Encoding: quoted-printable
-Content-Location: http://uploads.ungrounded.net/tmp/1911000/1911716/file/alternate/alternate_2_r7.zip/
-
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
-div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
-class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
-"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
-e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
-OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
-/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
-s=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute-valu=
-e">en</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3"=
-></td><td class=3D"line-content"><span class=3D"html-tag">&lt;head&gt;</spa=
-n></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td class=3D"lin=
-e-content">	</td></tr><tr><td class=3D"line-number" value=3D"5"></td><td cl=
-ass=3D"line-content">	<span class=3D"html-tag">&lt;meta <span class=3D"html=
--attribute-name">charset</span>=3D"<span class=3D"html-attribute-value">utf=
--8</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"6"></=
-td><td class=3D"line-content">	</td></tr><tr><td class=3D"line-number" valu=
-e=3D"7"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;title=
-&gt;</span>Friday Night Funkin'<span class=3D"html-tag">&lt;/title&gt;</spa=
-n></td></tr><tr><td class=3D"line-number" value=3D"8"></td><td class=3D"lin=
-e-content">	</td></tr><tr><td class=3D"line-number" value=3D"9"></td><td cl=
-ass=3D"line-content">	<span class=3D"html-tag">&lt;meta <span class=3D"html=
--attribute-name">id</span>=3D"<span class=3D"html-attribute-value">viewport=
-</span>" <span class=3D"html-attribute-name">name</span>=3D"<span class=3D"=
-html-attribute-value">viewport</span>" <span class=3D"html-attribute-name">=
-content</span>=3D"<span class=3D"html-attribute-value">width=3Ddevice-width=
-, initial-scale=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno</span>" /&gt=
-;</span></td></tr><tr><td class=3D"line-number" value=3D"10"></td><td class=
-=3D"line-content">	<span class=3D"html-tag">&lt;meta <span class=3D"html-at=
-tribute-name">name</span>=3D"<span class=3D"html-attribute-value">apple-mob=
-ile-web-app-capable</span>" <span class=3D"html-attribute-name">content</sp=
-an>=3D"<span class=3D"html-attribute-value">yes</span>"&gt;</span></td></tr=
-><tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line-content"=
->	</td></tr><tr><td class=3D"line-number" value=3D"12"></td><td class=3D"li=
-ne-content">	</td></tr><tr><td class=3D"line-number" value=3D"13"></td><td =
-class=3D"line-content">	<span class=3D"html-tag">&lt;link <span class=3D"ht=
-ml-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value">short=
-cut icon</span>" <span class=3D"html-attribute-name">type</span>=3D"<span c=
-lass=3D"html-attribute-value">image/png</span>" <span class=3D"html-attribu=
-te-name">href</span>=3D"<a class=3D"html-attribute-value html-resource-link=
-" target=3D"_blank" href=3D"http://uploads.ungrounded.net/tmp/1911000/19117=
-16/file/alternate/alternate_2_r7.zip/favicon.png" rel=3D"noreferrer noopene=
-r">./favicon.png</a>"&gt;</span></td></tr><tr><td class=3D"line-number" val=
-ue=3D"14"></td><td class=3D"line-content">	</td></tr><tr><td class=3D"line-=
-number" value=3D"15"></td><td class=3D"line-content">	</td></tr><tr><td cla=
-ss=3D"line-number" value=3D"16"></td><td class=3D"line-content">	<span clas=
-s=3D"html-tag">&lt;script <span class=3D"html-attribute-name">type</span>=
-=3D"<span class=3D"html-attribute-value">text/javascript</span>" <span clas=
-s=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribute-value ht=
-ml-resource-link" target=3D"_blank" href=3D"http://uploads.ungrounded.net/t=
-mp/1911000/1911716/file/alternate/alternate_2_r7.zip/Funkin.js" rel=3D"nore=
-ferrer noopener">./Funkin.js</a>"&gt;</span><span class=3D"html-tag">&lt;/s=
-cript&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"17"></td><=
-td class=3D"line-content">	</td></tr><tr><td class=3D"line-number" value=3D=
-"18"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;script&g=
-t;</span></td></tr><tr><td class=3D"line-number" value=3D"19"></td><td clas=
-s=3D"line-content">		window.addEventListener ("touchmove", function (event)=
- { event.preventDefault (); }, { capture: false, passive: false });</td></t=
-r><tr><td class=3D"line-number" value=3D"20"></td><td class=3D"line-content=
-">		if (typeof window.devicePixelRatio !=3D 'undefined' &amp;&amp; window.d=
-evicePixelRatio &gt; 2) {</td></tr><tr><td class=3D"line-number" value=3D"2=
-1"></td><td class=3D"line-content">			var meta =3D document.getElementById =
-("viewport");</td></tr><tr><td class=3D"line-number" value=3D"22"></td><td =
-class=3D"line-content">			meta.setAttribute ('content', 'width=3Ddevice-wid=
-th, initial-scale=3D' + (2 / window.devicePixelRatio) + ', user-scalable=3D=
-no');</td></tr><tr><td class=3D"line-number" value=3D"23"></td><td class=3D=
-"line-content">		}</td></tr><tr><td class=3D"line-number" value=3D"24"></td=
-><td class=3D"line-content">	<span class=3D"html-tag">&lt;/script&gt;</span=
-></td></tr><tr><td class=3D"line-number" value=3D"25"></td><td class=3D"lin=
-e-content">	</td></tr><tr><td class=3D"line-number" value=3D"26"></td><td c=
-lass=3D"line-content">	<span class=3D"html-tag">&lt;style&gt;</span></td></=
-tr><tr><td class=3D"line-number" value=3D"27"></td><td class=3D"line-conten=
-t">		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }</=
-td></tr><tr><td class=3D"line-number" value=3D"28"></td><td class=3D"line-c=
-ontent">		#openfl-content { background: #000000; width: 100%; height: 100%;=
- }</td></tr><tr><td class=3D"line-number" value=3D"29"></td><td class=3D"li=
-ne-content">		@font-face {</td></tr><tr><td class=3D"line-number" value=3D"=
-30"></td><td class=3D"line-content">			font-family: 'Pixel Arial 11 Bold';<=
-/td></tr><tr><td class=3D"line-number" value=3D"31"></td><td class=3D"line-=
-content">			src: url('assets/fonts/pixel.eot?#iefix') format('embedded-open=
-type'),</td></tr><tr><td class=3D"line-number" value=3D"32"></td><td class=
-=3D"line-content">			url('assets/fonts/pixel.woff') format('woff'),</td></t=
-r><tr><td class=3D"line-number" value=3D"33"></td><td class=3D"line-content=
-">			url('assets/fonts/pixel.otf') format('truetype');</td></tr><tr><td cla=
-ss=3D"line-number" value=3D"34"></td><td class=3D"line-content">			font-wei=
-ght: normal;</td></tr><tr><td class=3D"line-number" value=3D"35"></td><td c=
-lass=3D"line-content">			font-style: normal;</td></tr><tr><td class=3D"line=
--number" value=3D"36"></td><td class=3D"line-content">		}</td></tr><tr><td =
-class=3D"line-number" value=3D"37"></td><td class=3D"line-content">		@font-=
-face {</td></tr><tr><td class=3D"line-number" value=3D"38"></td><td class=
-=3D"line-content">			font-family: 'VCR OSD Mono';</td></tr><tr><td class=3D=
-"line-number" value=3D"39"></td><td class=3D"line-content">			src: url('ass=
-ets/fonts/vcr.eot?#iefix') format('embedded-opentype'),</td></tr><tr><td cl=
-ass=3D"line-number" value=3D"40"></td><td class=3D"line-content">			url('as=
-sets/fonts/vcr.woff') format('woff'),</td></tr><tr><td class=3D"line-number=
-" value=3D"41"></td><td class=3D"line-content">			url('assets/fonts/vcr.ttf=
-') format('truetype'),</td></tr><tr><td class=3D"line-number" value=3D"42">=
-</td><td class=3D"line-content">			url('assets/fonts/vcr.svg#VCR%20OSD%20Mo=
-no') format('svg');</td></tr><tr><td class=3D"line-number" value=3D"43"></t=
-d><td class=3D"line-content">			font-weight: normal;</td></tr><tr><td class=
-=3D"line-number" value=3D"44"></td><td class=3D"line-content">			font-style=
-: normal;</td></tr><tr><td class=3D"line-number" value=3D"45"></td><td clas=
-s=3D"line-content">		}</td></tr><tr><td class=3D"line-number" value=3D"46">=
-</td><td class=3D"line-content">		@font-face {</td></tr><tr><td class=3D"li=
-ne-number" value=3D"47"></td><td class=3D"line-content">			font-family: 'No=
-kia Cellphone FC Small';</td></tr><tr><td class=3D"line-number" value=3D"48=
-"></td><td class=3D"line-content">			src: url('flixel/fonts/nokiafc22.eot?#=
-iefix') format('embedded-opentype'),</td></tr><tr><td class=3D"line-number"=
- value=3D"49"></td><td class=3D"line-content">			url('flixel/fonts/nokiafc2=
-2.woff') format('woff'),</td></tr><tr><td class=3D"line-number" value=3D"50=
-"></td><td class=3D"line-content">			url('flixel/fonts/nokiafc22.ttf') form=
-at('truetype'),</td></tr><tr><td class=3D"line-number" value=3D"51"></td><t=
-d class=3D"line-content">			url('flixel/fonts/nokiafc22.svg#Nokia%20Cellpho=
-ne%20FC%20Small') format('svg');</td></tr><tr><td class=3D"line-number" val=
-ue=3D"52"></td><td class=3D"line-content">			font-weight: normal;</td></tr>=
-<tr><td class=3D"line-number" value=3D"53"></td><td class=3D"line-content">=
-			font-style: normal;</td></tr><tr><td class=3D"line-number" value=3D"54">=
-</td><td class=3D"line-content">		}</td></tr><tr><td class=3D"line-number" =
-value=3D"55"></td><td class=3D"line-content">		@font-face {</td></tr><tr><t=
-d class=3D"line-number" value=3D"56"></td><td class=3D"line-content">			fon=
-t-family: 'Monsterrat';</td></tr><tr><td class=3D"line-number" value=3D"57"=
-></td><td class=3D"line-content">			src: url('flixel/fonts/monsterrat.eot?#=
-iefix') format('embedded-opentype'),</td></tr><tr><td class=3D"line-number"=
- value=3D"58"></td><td class=3D"line-content">			url('flixel/fonts/monsterr=
-at.woff') format('woff'),</td></tr><tr><td class=3D"line-number" value=3D"5=
-9"></td><td class=3D"line-content">			url('flixel/fonts/monsterrat.ttf') fo=
-rmat('truetype'),</td></tr><tr><td class=3D"line-number" value=3D"60"></td>=
-<td class=3D"line-content">			url('flixel/fonts/monsterrat.svg#Monsterrat')=
- format('svg');</td></tr><tr><td class=3D"line-number" value=3D"61"></td><t=
-d class=3D"line-content">			font-weight: normal;</td></tr><tr><td class=3D"=
-line-number" value=3D"62"></td><td class=3D"line-content">			font-style: no=
-rmal;</td></tr><tr><td class=3D"line-number" value=3D"63"></td><td class=3D=
-"line-content">		}</td></tr><tr><td class=3D"line-number" value=3D"64"></td=
-><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" val=
-ue=3D"65"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;/st=
-yle&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"66"></td><td=
- class=3D"line-content">	</td></tr><tr><td class=3D"line-number" value=3D"6=
-7"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/head&gt;</=
-span></td></tr><tr><td class=3D"line-number" value=3D"68"></td><td class=3D=
-"line-content"><span class=3D"html-tag">&lt;body&gt;</span></td></tr><tr><t=
-d class=3D"line-number" value=3D"69"></td><td class=3D"line-content">	</td>=
-</tr><tr><td class=3D"line-number" value=3D"70"></td><td class=3D"line-cont=
-ent">	<span class=3D"html-tag">&lt;noscript&gt;</span>This webpage makes ex=
-tensive use of JavaScript. Please enable JavaScript in your web browser to =
-view this page.<span class=3D"html-tag">&lt;/noscript&gt;</span></td></tr><=
-tr><td class=3D"line-number" value=3D"71"></td><td class=3D"line-content">	=
-</td></tr><tr><td class=3D"line-number" value=3D"72"></td><td class=3D"line=
--content">	<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
-ame">id</span>=3D"<span class=3D"html-attribute-value">openfl-content</span=
->"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td =
-class=3D"line-number" value=3D"73"></td><td class=3D"line-content">	</td></=
-tr><tr><td class=3D"line-number" value=3D"74"></td><td class=3D"line-conten=
-t">	<span class=3D"html-tag">&lt;script <span class=3D"html-attribute-name"=
->type</span>=3D"<span class=3D"html-attribute-value">text/javascript</span>=
-"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"75"></td><td c=
-lass=3D"line-content">		lime.embed ("Funkin", "openfl-content", 1280, 720, =
-{ parameters: {} });</td></tr><tr><td class=3D"line-number" value=3D"76"></=
-td><td class=3D"line-content">	<span class=3D"html-tag">&lt;/script&gt;</sp=
-an></td></tr><tr><td class=3D"line-number" value=3D"77"></td><td class=3D"l=
-ine-content">	</td></tr><tr><td class=3D"line-number" value=3D"78"></td><td=
- class=3D"line-content"><span class=3D"html-tag">&lt;/body&gt;</span></td><=
-/tr><tr><td class=3D"line-number" value=3D"79"></td><td class=3D"line-conte=
-nt"><span class=3D"html-tag">&lt;/html&gt;</span></td></tr><tr><td class=3D=
-"line-number" value=3D"80"></td><td class=3D"line-content"><span class=3D"h=
-tml-end-of-file"></span></td></tr></tbody></table></body></html>
-------MultipartBoundary--aEInavvhIfvoFUO7sFDF795pfVHDf1xJEHmFc1U2V7------
+	</style>
+	
+</head>
+<body>
+	
+	<noscript>This webpage makes extensive use of JavaScript. Please enable JavaScript in your web browser to view this page.</noscript>
+	
+	<div id="openfl-content"></div>
+	
+	<script type="text/javascript">
+		lime.embed ("Funkin", "openfl-content", 1280, 720, { parameters: {} });
+	</script>
+	
+</body>
+</html>
